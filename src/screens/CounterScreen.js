@@ -10,15 +10,13 @@ const CounterScreen = () => {
       <Button
         title="Increase"
         onPress={() => {
-          let count = counter + 1;
-          setCounter(count);
+          setCounter(counter + 1);
         }}
       />
       <Button
         title="Decrease"
         onPress={() => {
-          let count = counter - 1;
-          setCounter(count);
+          setCounter(counter - 1);
         }}
       />
       <Text>Current Count: {counter}</Text>

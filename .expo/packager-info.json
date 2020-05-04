@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 27248,
+  "expoServerNgrokUrl": "https://jq-d4c.anonymous.first-react-native-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.jq-d4c.anonymous.first-react-native-app.exp.direct",
+  "ngrokPid": 18032,
   "webpackServerPort": null
 }
